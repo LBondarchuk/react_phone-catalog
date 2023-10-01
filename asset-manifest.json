@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.eeb8f0ae.chunk.css",
+    "main.css": "./static/css/main.ad0b439c.chunk.css",
     "main.js": "./static/js/main.dca71903.chunk.js",
     "main.js.map": "./static/js/main.dca71903.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.551032f1.js",
@@ -10,7 +10,7 @@
     "static/js/2.bfafcf99.chunk.js.map": "./static/js/2.bfafcf99.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.c374eb44.chunk.css.map": "./static/css/2.c374eb44.chunk.css.map",
-    "static/css/main.eeb8f0ae.chunk.css.map": "./static/css/main.eeb8f0ae.chunk.css.map",
+    "static/css/main.ad0b439c.chunk.css.map": "./static/css/main.ad0b439c.chunk.css.map",
     "static/js/2.bfafcf99.chunk.js.LICENSE.txt": "./static/js/2.bfafcf99.chunk.js.LICENSE.txt",
     "static/media/index.scss": "./static/media/Mont-SemiBold.8979d71a.otf"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.551032f1.js",
     "static/css/2.c374eb44.chunk.css",
     "static/js/2.bfafcf99.chunk.js",
-    "static/css/main.eeb8f0ae.chunk.css",
+    "static/css/main.ad0b439c.chunk.css",
     "static/js/main.dca71903.chunk.js"
   ]
 }
